@@ -147,7 +147,7 @@
         {
           "label": "寻找对方弱点进行突袭",
           "label_en": "Find their weakness and launch a surprise attack",
-          "value": 1
+          "value": 3
         },
         {
           "label": "制定周密计划再行动",
@@ -157,7 +157,7 @@
         {
           "label": "寻求盟友或避其锋芒",
           "label_en": "Seek allies or avoid direct confrontation",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -170,7 +170,7 @@
         {
           "label": "渴望成为最强的龙族领袖",
           "label_en": "Desire to become the strongest dragon leader",
-          "value": 1
+          "value": 3
         },
         {
           "label": "希望通过实力赢得尊重",
@@ -180,7 +180,7 @@
         {
           "label": "更在意内在修养而非地位",
           "label_en": "More concerned with inner cultivation than status",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -193,7 +193,7 @@
         {
           "label": "深埋在隐秘的洞穴中",
           "label_en": "Deeply buried in a secret cave",
-          "value": 1
+          "value": 3
         },
         {
           "label": "只让值得信任的人看见",
@@ -203,7 +203,7 @@
         {
           "label": "愿意与有价值的人分享",
           "label_en": "Willing to share with valuable individuals",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -216,7 +216,7 @@
         {
           "label": "绝对不允许，那是我的一切",
           "label_en": "Absolutely not allowed, that's everything to me",
-          "value": 1
+          "value": 3
         },
         {
           "label": "看对方是否有足够的诚意和理由",
@@ -226,7 +226,7 @@
         {
           "label": "如果对方需要，愿意给予",
           "label_en": "Willing to give if they truly need it",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -285,7 +285,7 @@
         {
           "label": "直接正面猛攻",
           "label_en": "Direct frontal assault",
-          "value": 1
+          "value": 3
         },
         {
           "label": "利用环境和陷阱智取",
@@ -295,7 +295,7 @@
         {
           "label": "尽量避免战斗，寻求和平解决",
           "label_en": "Avoid combat if possible, seek peaceful solution",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -308,7 +308,7 @@
         {
           "label": "追求最大的破坏力",
           "label_en": "Pursue maximum destructive power",
-          "value": 1
+          "value": 3
         },
         {
           "label": "精准打击关键目标",
@@ -318,7 +318,7 @@
         {
           "label": "威慑为主，避免真正伤害",
           "label_en": "Deterrence first, avoid real harm",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -331,7 +331,7 @@
         {
           "label": "绝对统治，不许任何生物侵犯",
           "label_en": "Absolute rule, no creature intrusion allowed",
-          "value": 1
+          "value": 3
         },
         {
           "label": "建立规则，允许有序进入",
@@ -341,7 +341,7 @@
         {
           "label": "开放领地，与其他生物和谐共存",
           "label_en": "Open territory, coexist harmoniously with others",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -354,7 +354,7 @@
         {
           "label": "立即反击，不惜一切代价",
           "label_en": "Immediate counterattack at any cost",
-          "value": 1
+          "value": 3
         },
         {
           "label": "评估威胁程度，有策略地应对",
@@ -364,7 +364,7 @@
         {
           "label": "寻求和平解决，避免流血冲突",
           "label_en": "Seek peaceful resolution, avoid bloodshed",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -423,7 +423,7 @@
         {
           "label": "直接而强烈地表达",
           "label_en": "Express directly and intensely",
-          "value": 1
+          "value": 3
         },
         {
           "label": "有节制地表达，看场合",
@@ -433,7 +433,7 @@
         {
           "label": "内敛而深沉，不轻易表露",
           "label_en": "Restrained and deep, not easily revealed",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -446,7 +446,7 @@
         {
           "label": "观望情况，不轻易介入",
           "label_en": "Watch the situation, not easily intervene",
-          "value": 1
+          "value": 3
         },
         {
           "label": "权衡利弊后决定是否帮助",
@@ -456,7 +456,7 @@
         {
           "label": "立即伸出援手",
           "label_en": "Immediately extend help",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -515,7 +515,7 @@
         {
           "label": "成为最强大的龙，统治一切",
           "label_en": "Become the most powerful dragon, rule everything",
-          "value": 1
+          "value": 3
         },
         {
           "label": "在龙族中获得重要地位",
@@ -525,7 +525,7 @@
         {
           "label": "追求内心的平静和智慧",
           "label_en": "Pursue inner peace and wisdom",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -538,7 +538,7 @@
         {
           "label": "不惜一切代价抓住机会",
           "label_en": "Seize the opportunity at any cost",
-          "value": 1
+          "value": 3
         },
         {
           "label": "权衡利弊后谨慎尝试",
@@ -548,7 +548,7 @@
         {
           "label": "如果违背原则则放弃",
           "label_en": "Give up if it goes against principles",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -561,7 +561,7 @@
         {
           "label": "果断迅速，不犹豫",
           "label_en": "Decisive and quick, no hesitation",
-          "value": 1
+          "value": 3
         },
         {
           "label": "经过一定思考后决定",
@@ -571,7 +571,7 @@
         {
           "label": "深思熟虑，反复推敲",
           "label_en": "Deep consideration, repeated deliberation",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -584,7 +584,7 @@
         {
           "label": "立即改变方向",
           "label_en": "Immediately change direction",
-          "value": 1
+          "value": 3
         },
         {
           "label": "评估影响后再调整",
@@ -594,7 +594,7 @@
         {
           "label": "分析原因，从中学习",
           "label_en": "Analyze reasons and learn from it",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -607,7 +607,7 @@
         {
           "label": "立刻行动，边做边调整",
           "label_en": "Immediate action, adjust while doing",
-          "value": 1
+          "value": 3
         },
         {
           "label": "制定计划，按步骤执行",
@@ -617,7 +617,7 @@
         {
           "label": "先观察学习，再谨慎行动",
           "label_en": "Observe and learn first, then act cautiously",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -630,7 +630,7 @@
         {
           "label": "主动出击，掌控局面",
           "label_en": "Proactive, control the situation",
-          "value": 1
+          "value": 3
         },
         {
           "label": "有条不紊，按部就班",
@@ -640,7 +640,7 @@
         {
           "label": "顺其自然，随遇而安",
           "label_en": "Go with the flow, adapt to circumstances",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -653,7 +653,7 @@
         {
           "label": "领导者，指挥大家",
           "label_en": "Leader, command everyone",
-          "value": 1
+          "value": 3
         },
         {
           "label": "参与者，配合团队",
@@ -663,7 +663,7 @@
         {
           "label": "观察者，默默支持",
           "label_en": "Observer, silently support",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -699,7 +699,7 @@
         {
           "label": "明确界限，不容侵犯",
           "label_en": "Clear boundaries, no violation allowed",
-          "value": 1
+          "value": 3
         },
         {
           "label": "保持适度距离，互不干扰",
@@ -709,7 +709,7 @@
         {
           "label": "开放包容，乐于分享",
           "label_en": "Open and inclusive, happy to share",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -722,7 +722,7 @@
         {
           "label": "保持独立，不让人过度依赖",
           "label_en": "Maintain independence, don't let others over-depend",
-          "value": 1
+          "value": 3
         },
         {
           "label": "适当帮助，但设立界限",
@@ -732,7 +732,7 @@
         {
           "label": "慷慨支持，愿意成为依靠",
           "label_en": "Generous support, willing to be relied upon",
-          "value": 3
+          "value": 1
         }
       ]
     },
